@@ -1,0 +1,22 @@
+---
+title: "Data Science Toolbox Assignment"
+author: "Philip Abughul"
+date: "2023-07-21"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+#setworking directory for your files. 
+setwd("C:/Users/oj_ph/Documents/Desktop/datasciencecoursera")
+```
+
+## This is a markdown file
+ 
+```{r}
+print("HelloWord.md")
+```
+
+
+
